@@ -32,6 +32,6 @@
 6. [PrintTexts()](https://github.com/SpiritGOS/cpp-spreadsheet/blob/main/spreadsheet/sheet.cpp#L90) - Вывод строковых ячеек тпблицы
 ## Требования
 - C++17
-- ANTLR
+- ANTLR (не старше версии 4.13.1)
 
 ![cat](https://github.com/SpiritGOS/cpp-spreadsheet/assets/62353945/1c7cc962-e8cb-4086-83ff-32152404aa8d)
